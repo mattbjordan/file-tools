@@ -25,4 +25,4 @@ if __name__ == '__main__':
     
     change_file_extensions(root_folder, args.old_extension, args.new_extension)
 
-# e.g., python change_extension.py C:\Audiobooks .m4b .mp4
+# e.g., python change_extension.py "C:\Audiobooks" .m4b .mp4
